@@ -1,0 +1,13 @@
+[server]
+runOnSave = true
+headless = false 
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base="dark"
+# backgroundColor="#FFFFFF"
+# primaryColor=
+# secondaryBackgroundColor =
+font = "sans serif"
